@@ -30,7 +30,7 @@ Get a list with * or a - Unordered Lists
 + add more to the list  
 - and list
 1. another line
-- is this another list inside a list?
+  - is this another list inside a list?
 1. another one
 - is this list matrix?
 1. Practice is fun
