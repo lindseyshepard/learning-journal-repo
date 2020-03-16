@@ -1,4 +1,4 @@
-#Learning Journal
+##Learning Journal
 
 ## Welcome to GitHub Pages
 
