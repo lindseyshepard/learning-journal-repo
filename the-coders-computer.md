@@ -3,7 +3,7 @@ Document in your journal the different classifications of text editors, and why 
 
 # Read Carefully
 
-#### Some Vocab | Definitions  
+Some Vocab | Definitions  
 --------------- | --------------  
 pwd | Print Working Directory   
 ls | Lists all directories  
@@ -16,3 +16,9 @@ cat | Prints contents of the file to the CLI
 rm | remove (to delete)  
 rmdir | removes a directory  
 open | opens the files from the command line  
+
+
+Table | More table
+----- | ------------  
+Left side of the table | right side of the table
+Tadah! | I have a table
