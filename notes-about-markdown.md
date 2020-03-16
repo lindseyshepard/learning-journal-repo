@@ -70,7 +70,12 @@ Those pound signs look like a tree
 [Link to the MD because practice](https://lindseyshepard.github.io/learning-journal-repo/notes-about-markdown.md)
 [Google](https://www.google.com)
 
-~wackwack
+~~wackwack~~
+
+<!-- Inline Code-->
+Why is this considered `inline` code? Because it is `inline` with the rest of the text
+This is a header >`#`
+
 
 
 
