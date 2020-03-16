@@ -3,7 +3,7 @@ Document in your journal the different classifications of text editors, and why 
 
 # Read Carefully
 
-Some Vocab | Definitions  
+Commands | What they do   
 --------------- | --------------  
 pwd | Print Working Directory   
 ls | Lists all directories  
@@ -18,7 +18,3 @@ rmdir | removes a directory
 open | opens the files from the command line  
 
 
-Table | More table
------ | ------------  
-Left side of the table | right side of the table
-Tadah! | I have a table
