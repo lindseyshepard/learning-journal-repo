@@ -19,12 +19,16 @@ _I am italic_  break
 ## Do you like Lists?
 - I am a list  
 - just being a list  
--list life boi
+- list life boi
 1. numbers
-2 are
+2. are
 3. my
 4. friend lol
 
+Get a list with * or a -
+* list doing list things
++ add more to the list  
+- and list
 
 
 These are blockquotes
