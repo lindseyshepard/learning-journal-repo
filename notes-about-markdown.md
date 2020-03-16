@@ -83,8 +83,8 @@ Those pound signs look like a tree
 ###
 
 <!-- Links -->
-[Link to the MD because practice](https://lindseyshepard.github.io/learning-journal-repo/notes-about-markdown.md)
-[NOT the MD link](https://github.com/lindseyshepard/learning-journal-repo/blob/master/notes-about-markdown)
+[Link to the MD because practice](https://lindseyshepard.github.io/learning-journal-repo/notes-about-markdown.md)  
+[NOT the MD link](https://lindseyshepard.github.io/learning-journal-repo/notes-about-markdown)  
 [Google](https://www.google.com)
 
 ~~wackwack~~
