@@ -1,5 +1,5 @@
 ## Journal entry ideas:
--Options_
+_Options_
 
 - Blog Article (2-3 paragraphs with code sample)
 - Dictionary / Flash Cards
@@ -11,3 +11,9 @@
 
 I have no idea what this does
 `<addr>` but I am gonna find out.
+
+_...oohhhhhh_
+
+These are blockquotes
+> I wonder
+> what this looks like!
