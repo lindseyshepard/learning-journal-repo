@@ -12,7 +12,9 @@ _Options_
 
 <!-- Being Silly -->
 **PROOF** I am taking notes on `markdown`
-[Notes on Markdown](https://github.com/lindseyshepard/learning-journal-repo/edit/master/notes-about-markdown) in case you didn't want to type out the entire URL.
+[Notes on Markdown](https://github.com/lindseyshepard/learning-journal-repo/edit/master/notes-about-markdown.md)  
+[GitHub Home](https://github.com/lindseyshepard)
+
 
 I have no idea what this does
 `<oohhhhhh>` but I am gonna find out.
