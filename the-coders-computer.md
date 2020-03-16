@@ -19,8 +19,14 @@ open | opens the files from the command line
 ~ | Brings you to home dir
 .. | Brings you back one in the hierarchy
 . | References the current directory
-
-
+file | obtain information about what type of file a file or directory is
+ls -a | List the contents of a directory, including hidden files  
+q | quit
+man -k <search term> | manually searches system?
+  
+  >Pro Tip: Click the up arrow to see what previous command you entered in the CLI. All commands are cached and this can come in handy!
+  
+  
 
 ## Paths are a big deal
 
