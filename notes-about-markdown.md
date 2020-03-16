@@ -39,6 +39,7 @@ _I am italic_  break
 <!-- -->
 <!-- -->
 <!-- -->
+# 
 
 Get a list with * or a - Unordered Lists
 * list doing list things
@@ -53,6 +54,9 @@ Get a list with * or a - Unordered Lists
 1. Booyaaaa
 
 [Check the MD here to see how these are written in 3 different ways!](https://github.com/lindseyshepard/learning-journal-repo/edit/master/notes-about-markdown) 
+
+
+#
 
 <!--  Block quotes -->
 These are blockquotes
@@ -72,15 +76,19 @@ Those pound signs look like a tree
 <!--  -->
 <!--  -->
 
+#
 
 <!-- images -->
 ![ImageHere](https://www.shutterstock.com/image-photo/slice-juicy-grapefruit-on-top-yellow-1655597662)
+###
 
 <!-- Links -->
 [Link to the MD because practice](https://lindseyshepard.github.io/learning-journal-repo/notes-about-markdown.md)
 [Google](https://www.google.com)
 
 ~~wackwack~~
+##
+
 
 <!-- Inline Code-->
 Why is this considered `inline` code? Because it is `inline` with the rest of the text
