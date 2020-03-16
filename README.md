@@ -19,4 +19,4 @@ _Growth Mindset to me is being ready to not know everything but being prepared a
 - I'm not afraid to ask questions and I know being able to talk to other will get me through the challenges I face because I am not alone
 
 
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#Hey look a blue box!`
