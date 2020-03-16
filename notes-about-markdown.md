@@ -102,4 +102,7 @@ it gives you a super cute break point!
 ###
 
 
-
+Table | More table
+----- | ------------  
+Left side of the table | right side of the table
+Tadah! | I have a table
