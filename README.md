@@ -12,9 +12,9 @@ Hey I'm Lindsey! 27. I just moved to Washington in late December. I spent 4 year
 _Growth Mindset to me is being ready to not know everything but being prepared and **willing** to learn._
 
 ### Include 3 reminders to yourself of how to keep yourself in a `growth mindset`
--I remind myself that I am new to this and learning for a reason. Everyone starts at the beginning and that's okay
--I keep in mind how far I have come and cut myself slack for not having an engineering background
--I'm not afraid to ask questions and I know being able to talk to other will get me through the challenges I face because I am not alone
+- I remind myself that I am new to this and learning for a reason. Everyone starts at the beginning and that's okay
+- I keep in mind how far I have come and cut myself slack for not having an engineering background
+- I'm not afraid to ask questions and I know being able to talk to other will get me through the challenges I face because I am not alone
 
 
 
@@ -23,7 +23,7 @@ _Growth Mindset to me is being ready to not know everything but being prepared a
 
 
 
-**Anything below `me` is for Helpful hints with Markup**
+# **Anything below `me` is for Helpful hints with Markup**
 
 ## Welcome to GitHub Pages
 
