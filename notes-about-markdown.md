@@ -33,27 +33,28 @@ _I am italic_  break
 ## Do you like Lists?
 - I am a list  
 - just being a list  
-- list life boi
-1. numbers
-2. are
-3. my
-4. listy friends 
+- list life boi  
+1. numbers  
+2. are  
+3. my  
+4. listy friends   
 <!-- -->
 <!-- -->
 <!-- -->
-# 
 
-Get a list with * or a - Unordered Lists
-* list doing list things
-+ add more to the list  
-- and list
-1. another line
-  - is this another list inside a list?
-1. another one
-- is this list matrix?
-1. Practice is fun
-1. I'm gonna be so good at this list thing
-1. Booyaaaa
+
+Get a list with * or a - _(Unordered Lists)_
+
+* list doing list things  
++ add more to the list   
+- and list  
+1. another line  
+  - is this another list inside a list?  
+1. another one  
+- is this list matrix?  
+1. Practice is fun  
+1. I'm gonna be so good at this list thing  
+1. Booyaaaa  
 
 [Check the MD here to see how these are written in 3 different ways!](https://github.com/lindseyshepard/learning-journal-repo/edit/master/notes-about-markdown) 
 
