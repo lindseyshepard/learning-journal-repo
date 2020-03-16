@@ -26,7 +26,15 @@ man -k <search term> | manually searches system?
   
   >Pro Tip: Click the up arrow to see what previous command you entered in the CLI. All commands are cached and this can come in handy!
   
-  
+  <!-- -->
+ 
+  <!-- -->
+ 
+  <!-- -->
+ 
+  <!-- -->
+ 
+  <!-- -->
 
 ## Paths are a big deal
 
