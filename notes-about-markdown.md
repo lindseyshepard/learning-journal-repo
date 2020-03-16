@@ -67,7 +67,11 @@ Those pound signs look like a tree
 ![ImageHere](https://www.shutterstock.com/image-photo/slice-juicy-grapefruit-on-top-yellow-1655597662)
 
 <!-- Links -->
-[markdownPage](https://lindseyshepard.github.io/learning-journal-repo/notes-about-markdown)
+[Link to the MD because practice](https://lindseyshepard.github.io/learning-journal-repo/notes-about-markdown.md)
+[Google](https://www.google.com)
+
+~wackwack
+
 
 
 
