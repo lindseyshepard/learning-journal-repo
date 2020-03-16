@@ -1,6 +1,13 @@
 # Read
 Document in your journal the different classifications of text editors, and why it’s important for software developers to be thoughtful about their selection of what they use to write code.
 
+What is the difference between a text editor and an IDE?
+stated from [this link](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf) a text editor is a piece of software that you download and install on your computer. It allows you to write and manage text through your web browser. _Code Completion_ was a noted feature of any text editing software. This is what I know as intellisense. IDE is an Integrated Dev Environment. This is like a text editor but with more bells and whisltes. At the end of the day most IDE's and text editors are equal but it depends on the user what application you want to use. Personally I lean toward using Visual Studio and Visual Studio Code.
+
+
+
+
+
 # Read Carefully
 
 Commands | What they do   
