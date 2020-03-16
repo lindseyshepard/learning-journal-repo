@@ -4,7 +4,7 @@ Document in your journal the different classifications of text editors, and why 
 # Read Carefully
 
 #### Some Vocab | Definitions  
----------------| --------------  
+--------------- | --------------  
 pwd | Print Working Directory   
 ls | Lists all directories  
 ls -la | Lists all directories INCLUDING hidden directories  
