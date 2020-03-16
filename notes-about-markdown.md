@@ -14,6 +14,18 @@ I have no idea what this does
 
 _I am italic_  break  
 *more italic*
+**_italic and bold_**
+
+## Do you like Lists?
+- I am a list  
+- just being a list  
+-list life boi
+1. numbers
+2 are
+3. my
+4. friend lol
+
+
 
 These are blockquotes
 > Hi I am a block quote!
