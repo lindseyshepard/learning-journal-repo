@@ -1,3 +1,6 @@
+[Return Home](https://lindseyshepard.github.io/learning-journal-repo/)  
+
+
 # Read
 Document in your journal the different classifications of text editors, and why it’s important for software developers to be thoughtful about their selection of what they use to write code.
 
