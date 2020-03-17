@@ -25,3 +25,5 @@ _Growth Mindset to me is being ready to not know everything but being prepared a
 ## Table of Contents
 
 [Markdown](https://lindseyshepard.github.io/learning-journal-repo/notes-about-markdown)  
+[The Coders Computer](https://lindseyshepard.github.io/learning-journal-repo/the-coders-computer)  
+
