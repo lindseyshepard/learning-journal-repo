@@ -37,7 +37,8 @@ git clone <url> | Git clone followed by the link will close a repository to loca
  git commit --amend | When you need to alter a commit message or forgot to add some files  
  git revert HEAD | undoes changed introduced by a specific commit  
  
- 
+ A-C-P  
+ Git add, git commit, git push
  
  
 
