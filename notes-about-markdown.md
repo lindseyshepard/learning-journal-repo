@@ -1,3 +1,6 @@
+[Return Home](https://lindseyshepard.github.io/learning-journal-repo/) 
+
+
 ## Journal entry ideas:
 _Options_
 
