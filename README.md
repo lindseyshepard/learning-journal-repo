@@ -1,6 +1,7 @@
 # Learning Journal
 
 
+
 ### _About Me_
 Hey I'm Lindsey! I moved to Washington in late December. I spent 4 years in the USMC in Communications. I found the MSSA program July 2019 and that was my first introduction to software. This course was my saving grace because I am still very new to the industry but I absouletly love what I am doing and learning so far. I work at my dream job already and I am in class to become the best developer I can be while I am in my learning phase. 
 
