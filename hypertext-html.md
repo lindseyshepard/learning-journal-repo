@@ -9,6 +9,7 @@ just all sorts of tags.
 
 <p>What is nesting?
 <li>lists?</li>
+<li>Anchor tags!</li>
 
 </p>
 semantic tags are tags with a purpose that the browser and the human can read <br>
