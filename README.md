@@ -20,3 +20,8 @@ _Growth Mindset to me is being ready to not know everything but being prepared a
 
 
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#Hey look a blue box!`
+
+
+## Table of Contents
+
+[Markdown](https://lindseyshepard.github.io/learning-journal-repo/notes-about-markdown)  
