@@ -18,4 +18,5 @@ Hey I'm Lindsey! I moved to Washington in late December. I spent 4 years in the 
 [Markdown](https://lindseyshepard.github.io/learning-journal-repo/notes-about-markdown)  
 [The Coders Computer](https://lindseyshepard.github.io/learning-journal-repo/the-coders-computer)  
 [Tadah, practice page](https://lindseyshepard.github.io/learning-journal-repo/new-file)  
-[Git Notes](https://lindseyshepard.github.io/learning-journal-repo/git-notes)  
+[Git Notes](https://lindseyshepard.github.io/learning-journal-repo/git-notes)   
+[Growth Mindset](https://lindseyshepard.github.io/learning-journal-repo/growth-mindset)  
