@@ -1,3 +1,6 @@
+[Return Home](https://lindseyshepard.github.io/learning-journal-repo/)   
+
+
 ### Explain “growth mindset” in your own words
 _Growth Mindset to me is being ready to not know everything but being prepared and **willing** to learn._
 
