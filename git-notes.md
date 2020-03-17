@@ -28,7 +28,17 @@ git add | adds commit to the git repo
 git commit | Gits version of Save As  
 git clone <url> | Git clone followed by the link will close a repository to local device   
  git status | Determines the state of files  
- git push origin master | pushes new changed to the cloud (origin) of branch (in this case master)  
+ git push origin master | pushes new changed to the cloud (origin) of branch (in this case master)    
+ git remote | lets you view short names, such as origin of all specified remote handles  
+ git remote -v | view all remote URLs next to their corresponding short names  
+ git fetch [remote-name] | Pulls data from a remote project you do not have yet  
+ git pull | recieved the data that was fetched  
+ git push [remote-name][branch-name] | Pushes changes up stream for sharing  
+ git commit --amend | When you need to alter a commit message or forgot to add some files  
+ git revert HEAD | undoes changed introduced by a specific commit  
+ 
+ 
+ 
  
 
 
