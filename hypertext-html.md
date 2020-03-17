@@ -1,3 +1,6 @@
+[Return Home](https://lindseyshepard.github.io/learning-journal-repo/)   
+
+
 # What do you remember about HTML?
 
 <p> Doctype html5, different types of tags, images, title, main<br>
