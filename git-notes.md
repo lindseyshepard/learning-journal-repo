@@ -10,7 +10,11 @@
 [GitHub Desktop for Windows or Mac](https://desktop.github.com/)  
 [Git for Mac](https://git-scm.com/download/mac)  
 [Git for Linux](https://git-scm.com/download/linux)  
-for more information on how to get started with Git [Click Here](https://www.udemy.com/blog/git-tutorial-a-comprehensive-guide/#1)  
+for more information on how to get started with Git 
+[Click Here](https://www.udemy.com/blog/git-tutorial-a-comprehensive-guide/#1)    
+
+
+### Tips and Tricks  
 
 Git Commands | What they do
 ------------ | -------------
