@@ -1,3 +1,5 @@
+[Return Home](https://lindseyshepard.github.io/learning-journal-repo/) 
+
 # JavaScript!
 
 _I did my first **Do Along** with JavaScript! The main focus of this was the script tag. This is where the browser will render the javascript used in the project._
