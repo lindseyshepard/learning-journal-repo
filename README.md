@@ -21,5 +21,6 @@ Hey I'm Lindsey! I moved to Washington in late December. I spent 4 years in the 
 3. [Tadah, practice page](https://lindseyshepard.github.io/learning-journal-repo/new-file)  
 4. [Git Notes](https://lindseyshepard.github.io/learning-journal-repo/git-notes)   
 5. [Growth Mindset](https://lindseyshepard.github.io/learning-journal-repo/growth-mindset)  
-6. [About HTML](https://lindseyshepard.github.io/learning-journal-repo/hypertext-html)  
-7. [Learning Summary](https://lindseyshepard.github.io/learning-journal-repo/learning-is-occurring)  
+6. [About HTML](https://lindseyshepard.github.io/learning-journal-repo/hypertext-html)   
+7. [CSS](https://lindseyshepard.github.io/learning-journal-repo/my-css-adventure)  
+8. [Learning Summary](https://lindseyshepard.github.io/learning-journal-repo/learning-is-occurring)  
