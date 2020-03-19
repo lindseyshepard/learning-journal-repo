@@ -24,7 +24,6 @@ Hey I'm Lindsey! I moved to Washington in late December. I spent 4 years in the 
 6. [About HTML](https://lindseyshepard.github.io/learning-journal-repo/hypertext-html)   
 7. [CSS](https://lindseyshepard.github.io/learning-journal-repo/my-css-adventure)  
 8. [JavaScript and Chill](https://lindseyshepard.github.io/learning-journal-repo/lets-JavaScript)
-<<<<<<< HEAD
 9. [Programming with JavaScript (Learnings)](https://lindseyshepard.github.io/learning-journal-repo/programming-with-JavaScript)
 9. [Operators and Loops](https://lindseyshepard.github.io/learning-journal-repo/operators-and-loops)
 9. [Programming with JavaScript](https://lindseyshepard.github.io/learning-journal-repo/programming-with-javascript)
